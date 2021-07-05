@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/All_Divisors" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Bicycle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FeetAndInchesToCms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java-Programs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MathProblemsInJava" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Math_problems" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Methods" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SecondAndMinutesChallenge" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SieveOfEratosthenes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/infyProblem" vcs="Git" />
+  </component>
+</project>

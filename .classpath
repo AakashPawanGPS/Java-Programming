@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="App/src"/>
+	<classpathentry kind="src" path="AreaCalculator/src"/>
+	<classpathentry kind="src" path="BarkingDog/src"/>
+	<classpathentry kind="src" path="ByteShortIntLong/src"/>
+	<classpathentry kind="src" path="CharAndBoolean/src"/>
+	<classpathentry kind="src" path="CodingExercises/src"/>
+	<classpathentry kind="src" path="CoinToss/src"/>
+	<classpathentry kind="src" path="DecimalComparator/src"/>
+	<classpathentry kind="src" path="EqualSumChecker/src"/>
+	<classpathentry kind="src" path="FeetAndInchesToCms/src"/>
+	<classpathentry kind="src" path="HelloWorld/src"/>
+	<classpathentry kind="src" path="IfKeywordAndCodeBlocks/src"/>
+	<classpathentry kind="src" path="LeapYear/src"/>
+	<classpathentry kind="src" path="MegaBytesConverter/src"/>
+	<classpathentry kind="src" path="MethodOverloading/src"/>
+	<classpathentry kind="src" path="Methods/src"/>
+	<classpathentry kind="src" path="MinutesToYearsAndDays/src"/>
+	<classpathentry kind="src" path="Original/src"/>
+	<classpathentry kind="src" path="PrimtiveDataTypes/src"/>
+	<classpathentry kind="src" path="ProjectCar/src"/>
+	<classpathentry kind="src" path="Run_Length_Encoding/src"/>
+	<classpathentry kind="src" path="SecondAndMinutesChallenge/src"/>
+	<classpathentry kind="src" path="SpeedConverter/src"/>
+	<classpathentry kind="src" path="TeenNumberChecker/src"/>
+	<classpathentry kind="src" path="WorkWithStrings/src"/>
+	<classpathentry kind="output" path="App/out/production/App"/>
+</classpath>
